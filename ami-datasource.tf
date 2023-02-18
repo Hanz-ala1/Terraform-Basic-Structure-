@@ -24,5 +24,5 @@ data "aws_ami" "amzlinux2" {
 }
 
 #data "local_file" "foo" {
- # filename = file("~/.ssh/instancekey.pub")
+# filename = file("~/.ssh/instancekey.pub")
 #}
